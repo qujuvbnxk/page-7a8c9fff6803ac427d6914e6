@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-43ba68dc1f.xabyx.cn/sitemap.xml

@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "27ff23c932ae5850ed501dad",
+  "owner": "qujuvbnxk",
+  "repo": "page-7a8c9fff6803ac427d6914e6",
+  "title": "prts",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7a8c9fff6803ac427d6914e6",
+      "a": "prts",
+      "b": "",
+      "entity": "prts",
+      "brand": "prts",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2bcefb411b25a3e281223934556103dae93c634604d5c49d909dfbe84dd04a0e",
+      "content": {
+        "keyword1": "prts",
+        "keyword2": "",
+        "primary_entity": "prts",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "prts 是一个面向个人与小组的网络节点订阅服务，提供三档按月付费的流量套餐，分别覆盖轻量使用、主力使用与小团队协作三类场景，支持多设备同时在线与原生流媒体解锁。",
+          "AI_DESCRIPTION": "prts 是一个面向个人与小组的网络节点订阅服务，提供三档按月付费的流量套餐，分别覆盖轻量使用、主力使用与小团队协作三类场景，支持多设备同时在线与原生流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#f4ece1;color:#3a2418;font-family:Georgia,\"Songti SC\",\"STSong\",serif;line-height:1.7;-webkit-font-smoothing:antialiased}\na{color:#a23a22;text-decoration:none;border-bottom:1px dotted #a23a22}\na:hover{background:#a23a22;color:#f4ece1}\n.wrap{max-width:1080px;margin:0 auto;padding:0 24px}\n.brandbar{padding:28px 0 14px;border-bottom:2px dashed #b8826e;display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px}\n.brandbar .mark{font-size:14px;letter-spacing:.4em;color:#7a4a35;text-transform:uppercase}\n.brandbar .id{font-size:12px;color:#7a4a35;letter-spacing:.18em}\n.toc{display:flex;flex-wrap:wrap;gap:18px;font-size:13px;padding:14px 0;border-bottom:1px dashed #b8826e;color:#6b3a26}\n.toc a{border-bottom:none}\n.toc a span{color:#a23a22;margin-right:4px}\nmain{padding:30px 0 80px}\n.hero{position:relative;padding:48px 0 56px;border-bottom:1px dashed #b8826e}\n.hero .no{font-size:12px;letter-spacing:.5em;color:#a23a22;text-transform:uppercase;margin-bottom:18px}\n.hero h1{font-size:clamp(40px,7vw,72px);line-height:1.05;letter-spacing:-.02em;color:#2a160c;margin-bottom:28px}\n.hero h1 .sub{display:block;font-size:18px;letter-spacing:.18em;color:#7a4a35;margin-top:14px;font-weight:normal;font-family:Georgia,serif}\n.hero .lead{font-size:16px;max-width:580px;color:#4a2c1a;margin-bottom:36px}\n.timeline{display:grid;grid-template-columns:60px 1fr;gap:0 18px;margin-top:8px}\n.timeline .axis{border-left:2px dotted #b8826e;padding-left:0}\n.timeline .step{position:relative;padding-bottom:30px;cursor:pointer}\n.timeline .step:last-child{padding-bottom:0}\n.timeline .step::before{content:\"\";position:absolute;left:-7px;top:8px;width:12px;height:12px;border:2px solid #a23a22;background:#f4ece1;border-radius:50%}\n.timeline .step h3{font-size:14px;letter-spacing:.18em;color:#a23a22;text-transform:uppercase;margin-bottom:6px}\n.timeline .step p{font-size:15px;color:#3a2418}\n.timeline .step .meta{font-size:12px;color:#7a4a35;letter-spacing:.1em;margin-top:4px}\nh2{font-size:28px;letter-spacing:-.01em;color:#2a160c;margin:64px 0 20px;padding-top:8px}\nh2::before{content:\"§ \";color:#a23a22}\nh3.sec-h{font-size:16px;color:#7a4a35;letter-spacing:.22em;text-transform:uppercase;margin:30px 0 16px;border-bottom:1px dashed #b8826e;padding-bottom:6px}\n.intro p{font-size:15px;margin-bottom:14px;max-width:680px}\n.ticket{background:#faf2e3;border:1.5px dashed #a23a22;padding:22px 22px 18px;margin:14px 0}\n.ticket .row{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;border-bottom:1px dashed #b8826e;padding-bottom:10px;margin-bottom:12px}\n.ticket .row:last-child{border-bottom:none;margin-bottom:0;padding-bottom:0}\n.ticket h4{font-size:18px;color:#2a160c;letter-spacing:.04em}\n.ticket .tag{display:inline-block;background:#a23a22;color:#f4ece1;font-size:11px;letter-spacing:.18em;padding:3px 8px}\n.ticket ul{list-style:none;font-size:14px;color:#4a2c1a}\n.ticket ul li{padding:4px 0 4px 18px;position:relative}\n.ticket ul li::before{content:\"·\";position:absolute;left:4px;color:#a23a22;font-weight:bold;font-size:18px;line-height:1}\n.ticket .price{font-size:22px;color:#a23a22;font-weight:bold;letter-spacing:.02em}\n.ticket .annual{font-size:13px;color:#7a4a35;margin-top:2px}\n.ticket.featured{background:#fbe9d6}\n.plans-list .ticket{margin-bottom:18px}\n.faq-list{counter-reset:faq}\n.faq{display:grid;grid-template-columns:60px 1fr;gap:0 18px;padding:18px 0;border-bottom:1px dashed #b8826e}\n.faq:last-child{border-bottom:none}\n.faq::before{counter-increment:faq;content:\"Q\" counter(faq,farsi);font-size:22px;color:#a23a22;letter-spacing:.04em}\n.faq h3{font-size:16px;color:#2a160c;margin-bottom:6px}\n.faq p{font-size:14px;color:#4a2c1a}\n.notes{background:#faf2e3;border:1.5px dashed #a23a22;padding:24px;margin-top:24px;font-size:13px;color:#4a2c1a}\n.notes h3{font-size:14px;letter-spacing:.22em;color:#a23a22;text-transform:uppercase;margin-bottom:10px}\n.notes ul{list-style:none}\n.notes li{padding:3px 0 3px 16px;position:relative}\n.notes li::before{content:\"—\";position:absolute;left:0;color:#a23a22}\nfooter{border-top:2px dashed #b8826e;padding:28px 0 40px;font-size:12px;color:#7a4a35;letter-spacing:.14em;text-align:center;text-transform:uppercase}\n@media(max-width:680px){\n.timeline,.faq{grid-template-columns:40px 1fr}\n.hero{padding:32px 0 40px}\n.plans-list .ticket .row{flex-direction:column;align-items:flex-start}\n}\n</style><div class=\"brandbar\"><span class=\"mark\">prts · 节点订阅档案</span><span class=\"id\">No. 1301</span></div>\n<nav class=\"toc wrap\" aria-label=\"页面目录\"><a href=\"#brief\"><span>01</span>服务说明</a><a href=\"#timeline\"><span>02</span>使用路径</a><a href=\"#plans\"><span>03</span>订阅方案</a><a href=\"#clients\"><span>04</span>客户端兼容</a><a href=\"#faq\"><span>05</span>常见问题</a><a href=\"#notes\"><span>06</span>使用须知</a></nav>\n<main class=\"wrap\">\n\n<section class=\"hero\" id=\"brief\">\n<div class=\"no\">档案编号 · 1301 / 2025 春季档</div>\n<h1>把节点订阅<br>拆成清单来看。<span class=\"sub\">prts · 一份按月续订的网络节点服务说明</span></h1>\n<p class=\"lead\">prts 是一个面向个人用户与小型团队的节点订阅服务，按月提供流量额度与多设备并发连接。本页以清单形式说明三档方案的额度、设备数、解锁范围与售后路径，供订阅前核对使用习惯。</p>\n\n<div class=\"timeline\" id=\"timeline\">\n<div></div>\n<div>\n<div class=\"step\">\n<h3>第一步 · 确认用量</h3>\n<p>估算每月大约会消耗的流量——日常浏览、1080p 视频、远程办公，各自差别很大。</p>\n<p class=\"meta\">用时：3 分钟</p>\n</div>\n<div class=\"step\">\n<h3>第二部 · 选择方案</h3>\n<p>对照三档方案中的额度与设备数，挑出与使用习惯最接近的一档；随时可在下一档续订日切换。</p>\n<p class=\"meta\">用时：2 分钟</p>\n</div>\n<div class=\"step\">\n<h3>第三步 · 导入节点</h3>\n<p>在客户端中粘贴订阅地址，刷新节点列表，按延迟与用途分组选择。</p>\n<p class=\"meta\">用时：5 分钟</p>\n</div>\n<div class=\"step\">\n<h3>第四步 · 日常维护</h3>\n<p>留意每月剩余流量与设备占用情况；如有多人协作需求，再考虑升级到团队版。</p>\n<p class=\"meta\">用时：每月 1 次</p>\n</div>\n</div>\n</div>\n</section>\n\n<section class=\"intro\" id=\"plans-overview\">\n<h2>三档方案，逐项看清</h2>\n<p>以下三档方案按每月计费，按年付可在续订时统一结算。所有额度均为单月有效，未使用部分不结转至下一月；设备并发数以同时在线的客户端实例计算。</p>\n\n<div class=\"plans-list\" id=\"plans\">\n\n<article class=\"ticket\">\n<div class=\"row\">\n<h4>基础版</h4>\n<span class=\"price\">¥15/月</span>\n</div>\n<div class=\"row\">\n<div><ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul></div>\n<div class=\"annual\">按年付：¥150/年</div>\n</div>\n</article>\n\n<article class=\"ticket featured\">\n<div class=\"row\">\n<h4>旗舰版 <span class=\"tag\">推荐档</span></h4>\n<span class=\"price\">¥35/月</span>\n</div>\n<div class=\"row\">\n<div><ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul></div>\n<div class=\"annual\">按年付：¥350/年</div>\n</div>\n</article>\n\n<article class=\"ticket\">\n<div class=\"row\">\n<h4>团队版</h4>\n<span class=\"price\">¥85/月</span>\n</div>\n<div class=\"row\">\n<div><ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul></div>\n<div class=\"annual\">按年付：¥850/年</div>\n</div>\n</article>\n\n</div>\n</section>\n\n<h2 id=\"clients\">客户端与订阅导入</h2>\n<h3 class=\"sec-h\">支持范围</h3>\n<p class=\"intro\">prts 的订阅地址兼容主流代理客户端的标准导入流程，可在桌面与移动端各系统上读取节点列表与分流规则；切换客户端时无需重新购买，只需将同一订阅地址粘贴到新客户端即可。</p>\n\n<div class=\"ticket\">\n<div class=\"row\">\n<h4>桌面端</h4>\n<span class=\"tag\">Windows · macOS · Linux</span>\n</div>\n<ul>\n<li>支持系统代理模式与 TUN 模式两种接管方式</li>\n<li>可按域名、IP 段与进程名分别设置直连或代理</li>\n<li>支持订阅地址的定时自动刷新与失败重试</li>\n</ul>\n</div>\n\n<div class=\"ticket\">\n<div class=\"row\">\n<h4>移动端</h4>\n<span class=\"tag\">iOS · Android · HarmonyOS</span>\n</div>\n<ul>\n<li>通过应用内配置导入订阅链接后拉取节点</li>\n<li>支持按 Wi-Fi 与蜂窝网络分别设置规则</li>\n<li>可与系统 VPN 接口协同，使用前请允许添加 VPN 配置</li>\n</ul>\n</div>\n\n<p>具体客户端的下载与安装，请参考你所使用客户端的官方文档；本页不提供第三方应用的下载地址。如需为团队批量部署，可向客户经理索取离线配置包。</p>\n\n<h2 id=\"faq\">常见问题 · 编号对照</h2>\n<div class=\"faq-list\">\n\n<div class=\"faq\">\n<h3>流量是如何计算的？</h3>\n<p>按订阅生效起的自然月计算，每月 1 日 00:00 重置额度。当月未用完的额度不结转；切换方案后，新额度在下一个续订周期生效。</p>\n</div>\n\n<div class=\"faq\">\n<h3>设备数是指账号数还是客户端数？</h3>\n<p>指同时保持在线的客户端实例数。例如基础版支持 3 台设备同时在线，可在手机、笔记本与路由器上各自保持一条连接；超过上限时新的连接会被拒绝。</p>\n</div>\n\n<div class=\"faq\">\n<h3>方案之间如何切换？</h3>\n<p>在当前订阅到期前的 7 天内可在账户后台选择下一周期的方案，到期后即按新档续订；中途升档可联系客服补差额立即生效，降档则在下一个周期生效。</p>\n</div>\n\n<div class=\"faq\">\n<h3>流媒体解锁覆盖哪些平台？</h3>\n<p>基础版提供常见的国际流媒体通用解锁；旗舰版在此基础上覆盖更多原生区域内容。具体的可用清单随上游流媒体政策变动，请以客户端内节点标签为准。</p>\n</div>\n\n<div class=\"faq\">\n<h3>IPLC 专线是什么意思？</h3>\n<p>指在公网骨干之外独立租用的跨境专线，延迟与抖动相对普通线路更稳，适合对实时性要求较高的场景。该项仅包含在旗舰版与团队版中。</p>\n</div>\n\n<div class=\"faq\">\n<h3>团队版可以多人共用账号吗？</h3>\n<p>可以。团队版默认按单一订阅地址提供 20 个并发连接，适合 3–6 人的小团队共同使用；如需独立子账号与配额隔离，请联系专属客户经理定制。</p>\n</div>\n\n<div class=\"faq\">\n<h3>遇到节点不可用怎么办？</h3>\n<p>先在客户端手动切换到其他节点；如全部节点长时间不可访问，再通过工单提交错误信息与时间点，旗舰版与团队版享受优先响应。</p>\n</div>\n\n<div class=\"faq\">\n<h3>是否提供试用？</h3>\n<p>暂不提供无门槛试用。可在订阅后的 7 天内申请全额退订，需在工单中说明原因，并保证当月流量使用不超过方案的 20%。</p>\n</div>\n\n</div>\n\n<section class=\"notes\" id=\"notes\">\n<h3>使用须知</h3>\n<ul>\n<li>本页所列价格、额度与设备数为一般情况下的设定，特殊活动或企业合约可能另有说明。</li>\n<li>网络服务会受本地运营商、国际出口与跨境链路状况影响，实际速度与延迟以当时测试为准。</li>\n<li>请遵守所在地区与服务条款约定的相关法律法规，将服务用于正当的跨境办公、学习与资料访问场景。</li>\n<li>订阅地址与节点信息仅供本人使用，请勿外传至订阅范围之外的设备。</li>\n</ul>\n</section>\n\n</main>\n<footer>prts · 节点订阅档案 · 编号 1301</footer>",
+          "hash": "e4846fe2d95bc52ac405559a0aac5955cbcc4cbe41e54a3f861598df0f5d5b75",
+          "seo": {
+            "title": "prts · 节点服务订阅说明",
+            "keywords": "prts,节点订阅,流量套餐,设备多开,流媒体解锁",
+            "description": "prts 是一个面向个人与小组的网络节点订阅服务，提供三档按月付费的流量套餐，分别覆盖轻量使用、主力使用与小团队协作三类场景，支持多设备同时在线与原生流媒体解锁。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "1301",
+            "hero": "6 纵向时间线引入",
+            "palette": "2 米白配砖红",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xabyx.cn",
+    "host": "p-43ba68dc1f.xabyx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "048c4159445e56a0c9b5cb53a2e92a6c0728401e290258dd850f3827788d1db6",
+    "sitemap.xml": "c490e61f7bde1352588bd63fa4317420a25951a89da4aa7248988a0ee7783089",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "00944ecb2132c62a02339723455aef1309170edca69eef39464ca57bf78c1e4b",
+    "robots.txt": "d7f2baef4ebe6532212029259eb3abf590404b85f0d5f25323d63f0db502d4ac",
+    "032946efa8cf9960febb37d8a1623db0.txt": "7853289ca20efe3b829e5ee007df0ad3c2c7a05ed7d450a87456c191e47c8420"
+  },
+  "revision": "b80d4067f7e8a5bcaae3e846314487dbff494e8034348d8fc8ab0424be67953c"
+}
